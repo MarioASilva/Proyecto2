@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Realizo Cambios en la linea1 desde Feat1
+=======
+#Este seria el Feat2
+#Esta seria un segundo comando
+>>>>>>> Feat2/PrintSecondLine
